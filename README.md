@@ -9,7 +9,7 @@ https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react
 https://github.com/facebook/react-devtools
 
 十分详细的React入门实例
-http://blog.csdn.net/a153375250/article/details/52667739
+http://blog.csdn.net/a153375250/article/details/52667739 (hjfeilg/StaffManage)
 
 React之表单
 https://www.cnblogs.com/zhuzhenwei918/p/6361398.html?utm_source=itdadao&utm_medium=referral
